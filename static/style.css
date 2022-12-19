@@ -1,7 +1,6 @@
 /*# sourceMappingURL=style.css.map */
 body{
     font-size: 16px;
-    font-family: 'Fredoka One', cursive;
     align-items: center;
     justify-content: center;
 }
@@ -10,6 +9,7 @@ body{
     background-color: lightgray;
     text-align: center;
     padding: 0.5%;
+    font-family: 'Fredoka One', cursive;
     height: 80px;
     border: solid black;
     margin-top: 10px;
@@ -31,6 +31,10 @@ body{
 
 tbody td{
     width: 8rem;
+}
+
+#cabecera {
+    font-family: 'Fredoka One', cursive, ;
 }
 
 #tabla-interior thead th{
